@@ -1,0 +1,29 @@
+	<div class="span10">
+	
+		<div class="well <?php echo $info_ui_color;?>">
+			<div class="well-header">
+				<h5>Call History (Past 7 days)</h5>
+			</div>
+		
+			<div "well-content"> 
+				<table class='table'>
+					<thead>
+						<tr>
+							<th width='16%'>Contact ID</th>
+							<th width='16%'>Skill Name</th>
+							<th width='20%'>Agent Name</th>
+							<th width='18%'>Start</th>
+							<th width='15%'>End</th>
+							<th width='15%'>Total Time<br>(Minutes)</th>
+						</tr>
+					</thead>
+				</table>
+				<div class="responsive_table_scroll">
+						<div id="responsecontainer">
+						This should fill with data in a few seconds...
+						</div>
+						</tbody>
+				</div>
+			</div>
+		</div>
+	</div>

@@ -1,0 +1,205 @@
+These are notes for how all componenets for csgfast\beta were copied to the root of \csgfast
+
+Copied these directories from \csgfast\beta to \csgfast
+
+\*.*
+\css
+\email_widget
+\img
+\incontact
+\js
+\profile_pics
+\z_scripts
+
+
+************************ On 2/5/14, Copied ******************************************
+\*.*
+\z_scripts
+\email_widget
+\js
+
+************************ On 2/16/14 Copied from \beta ********************************
+\
+	admin_audit_trail
+	admin_farm_agent_editor
+	admin_farm_agent_table
+	farm_inbound
+	home_page_admin
+	admin_email
+	admin_users
+\js\home_page_farm.js
+\z_scripts
+	admin_farm_agent_product_update
+	admin_farm_agent_table_update
+	farm_user_agent_update
+	iboption_toggle
+	do_login_user
+	email_template_update
+
+
+
+********************** on 3/10/14 copied from \beta *********************************
+
+main beta directory:
+farm_inbound.php (hours of op)
+admin_email.php 
+admin_farm_agent_editor.php(updated many items)
+admin_farm_agent_table.php (made user page static page instead of modal.. and other changes)
+ipage_view.php (staff, hours of op, alerts and ffr)
+farm_profile.php
+home_page_farm.php
+home_page_admin.php  (made changes to the navigation bar to add in prospects page, also added more JS libraries. removed admin_products link)
+reg_wizard.php (added hours of opp *delete* button)
+ipage.php (updated how hours of op were displayed)
+ipage_admin.php ---> changed so that staff members are now displayed and correct product info
+admin_prospects.php(page which admin can add and edit prospective users)
+farm_products.php
+login.php
+
+css/library:
+chosen.css (made changes in the css to accommodate the site)
+
+z_scripts:
+email_template_update.php
+admin_notes_update.php
+farm_user_agent_update.php
+admin_prospective_user_update.php (script for prospect page)
+admin_farm_agent_product_update.php (fixed bug that happened on product removal)
+iboption_toggle.php
+do_login_user.php
+
+js/
+home_page_admin.js
+
+email_widget:
+email_admin_send.php
+email_iboption_script.php
+email_agent_approval_script.php
+
+//script to update "status" fields of the farm_agent_info table. if dates, are the same, will have status as closed, else it will be open.
+zscripts/hoursofop_status_script.php
+
+
+********************************** update on 3/11/14 ***************************************
+
+admin_farm_agent_editor.php
+login.php
+farm_inbound.php
+
+js/
+login_form_ajax_submit.js
+
+
+
+********************************* update on 3/14/2014 **************************************
+
+farm_inbound.php --> fixing styling of the wells, removed csg notes. removed the second update button. removed "what csg sees" from page, and placed it in common "agency profile" area
+
+farm_profile.php --> added csg notes to main admin profile, styling. added "what csg sees".
+
+email_product_approval_script.php --> changed the code so that the email templates are no longer hard coded
+
+admin_farm_user_agent_update.php ---> changed the code so that the email templates are no longer hard coded
+
+admin_farm_agent_editor.php---> made adjustment for field in alerts sign up. edited product sign up function. fixed logical error on outbound page. adding in delete user functionality for Super admin. Removing URGENT NOTES from inbound and instead putting it onto agency profile. placed "what csg sees" in agency profile area as well
+
+email_registration_script.php---> altered who the email goes to on the staff section. altered BCC. resolved issue which staff were not being notified of user signup.
+
+delete_farm_agent.php --> created new script to delete all information (including incontact information) for a desired user.
+
+ipage.php ---> removed error display function
+ipage_view.php ---> updated layout, updated logic
+ipage_admin.php ---> updated layout
+do_user_pwd_reset.php ----> added BCC to Kimmie and Justin when a user reset's their password.
+
+
+
+********************************* update on 3/18/2014 **************************************
+farm_inbound.php---> resolved call history not updating for farmers portal
+
+
+********************************* update on 3/25/2014 **************************************
+
+main directory:
+admin_audit_trail.php ----> added search feature
+admin_farm_agent_editor.php ---> adding checks for inbound and outbound products tabs. updated urgent notes tab. 
+updating approve table in products tab.
+ 
+z_scripts:
+audit_trail_results.php ---> added php functionality
+delete_farm_agent.php ---> added functionality to delete specified farm user
+iboption_toggle.php---> update notes on incontact side.
+
+incontact:
+fast_deactivate.php ---> updated so that incontact info will be reset
+
+** forgot home_page_admin.js from 3/14.. added in today. resolved issue of urgent_notes
+
+
+
+
+
+********************************* update on 3/28/2014 **************************************
+ipage_view.php ----> updated css file location pointed to.
+ipage.php ---> corrected last update bug
+home_page_admin ----> adding products button back
+admin_farm_agent_editor.php ---> adding products button back. added option to update state.
+admin_products.php ----> changing layout so that level 7 users can edit
+farm_profile.php ---> take out "help" button on hours of op. added in option to update state. removed bug from last update
+
+
+********************************* update on 4/1/2014 **************************************
+farm_profile.php ---> updated state selection error
+admin_farm_agent_editor.php ---> updated state selection error
+
+
+********************************* update on /4/2/2014 **************************************
+z_scripts/
+do_user_pwd_reset.php----> updated to show html and also changed email message sent.
+admin_farm_agent_product_update.php ----> resolved error of product add
+
+********************************* update on /4/3/2014 **************************************
+farm_profile.php--->  resolved hours of op issue
+admin_farm_agent_editor.php ----> resolved hours of op issues
+ipage_admin.php ---> edited hours of operation layout
+
+********************************* update on /4/6/2014 **************************************
+home_page_admin.js ----> added link to script for super admin to update products.
+admin_products.php ---> added functionality for super admin to update products.
+admin_product_update.php ---> new script which takes care of product info update. 
+farm_user_agent_update.php ----> commented out error reporting.
+
+********************************* update on /4/17/2014 **************************************
+admin_audit_trail.php ---> removed jQuery onfocus function. now able to search the resulting query.
+admin_farm_agent_table.php --> added more notes; cleaned up code
+admin_users.php --> removed test code and commented out code
+farm_profile.php ---> removed bugs revealed in error log.
+home_page_admin.php ---> various updates fixing bugs and updating notes
+admin_farm_agent_editor.php ---> various bugs
+ipage_view.php --> fixed issues from error log
+reg_wizard.php
+login.php
+admin_email.php ---> updated notes
+farm_outbound.php --> cleaned up code
+farm_inbound.php ---> cleaned up code; removed logic error.
+
+z_scripts/
+z_scripts/admin_farm_agent_table_update.php ---> added more notes; cleaned up 
+z_scripts/email_admin_send.php ---> added more notes
+z_scripts/email_template_update.php ---> removed grammatical errors; added more notes
+z_scripts/admin_product_update.php ---> removed test code
+z_scripts/admin_prospective_user_update.php
+z_scripts/do_check_dup_user.php
+z_scripts/do_signup_user.php ---> removed link to farm_profile_pic_download.php
+z_scripts/fast_create.php
+
+js/
+js/home_page_admin.js ---> removed unnecessary code; commented out update_user_pic function
+js/reg_wizard.js ----> removed website farmweb_reg_prefill check. will need to update the check for what makes a valid website. 
+js/home_page_farm.js ---> removed unnecessary  code; commented out pic update function
+
+email_widget/
+email_widget/email_registration_script.php  --->replaced decpreciated functions
+
+incontact/
+incontact/csg_agent_call_history_today.php

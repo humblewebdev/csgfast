@@ -1,0 +1,567 @@
+type,phone_number,agent_name,name,assign_start_date,type_2,due_date
+"FFR Jan 2014 Gary Borak",2105577374,"Gary Borak","Emily  and Rodney Eikenberg","122014 101","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2103135345,"Gary Borak","Irma  Edward Mendoza","122014 102","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2109125741,"Gary Borak","Shahneela  and Younus Qazi","122014 103","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2107816878,"Gary Borak","Julio Cortez Jr  Florinda Cortez","122014 104","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2103786863,"Gary Borak","David  Ruth Tamez","122014 105","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2106498679,"Gary Borak","Cassandra Cuellar","122014 106","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2106691300,"Gary Borak","Michael  Dina Ramirez","122014 107","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2107079316,"Gary Borak","Gloria  Roy Maldonado","122014 108","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2106508130,"Gary Borak","Joyce  Daniel Suttin","122014 109","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",8326407956,"Gary Borak","John Milam","122014 111","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",8306243681,"Gary Borak","Callie Simon","122014 112","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",5128094949,"Gary Borak","Miriam Figueroa","122014 113","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2103857197,"Gary Borak","Lua  Nguyen Lua Nguyen","122014 114","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2109122308,"Gary Borak","Ruben Martinez Jr  Linda Martinez","122014 115","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",6266229760,"Gary Borak","Socorro Coyle","122014 116","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",9313021745,"Gary Borak","John Wauchek","122014 117","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2107362384,"Gary Borak","Tony  Lydia Fernandez","122014 118","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2105215207,"Gary Borak","Dora Guenther","122014 119","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2107108434,"Gary Borak","Michael Pantuso","122014 120","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2102419082,"Gary Borak","Jeff Butler","122014 121","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",3615583477,"Gary Borak","Tim  Denise Blanchard","122014 123","Feb Renewals  Auto",na
+"FFR Jan 2014 Gary Borak",2106371179,"Gary Borak","Juan and Marta Berrios","122014 124","Jan Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2108854386,"Gary Borak","Javier Lozano","122014 126","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2108851984,"Gary Borak","Jeffrey  Lori Gorhum","122014 127","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",8309805656,"Gary Borak","Carl  Lorena Rodriguez","122014 128","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2105902010,"Gary Borak","Joel  and Shelly Rios","122014 130","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2108623398,"Gary Borak","Felma  and Max Rodriguez","122014 131","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2108254431,"Gary Borak","Sheila Masterson","122014 132","Feb Renewals  Home",na
+"FFR Jan 2014 Gary Borak",2106250655,"Gary Borak","Jay Sumpter","122014 133","Feb Renewals  Home",na
+"FFR Jan 2014 Etiel Reyes",9653259039,"Etiel Reyes","Pedro  Ludivina Rios","122014 101","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565368533,"Etiel Reyes","Richardo Rodriguez","122014 102","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565767580,"Etiel Reyes","Fidencio  and Maria Tamez","122014 103","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564722901,"Etiel Reyes","Juan  Graciela Guerrero","122014 104","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565652319,"Etiel Reyes","Alicia FLORES","122014 105","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",4066561378,"Etiel Reyes","Denver Howell","122014 106","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563630280,"Etiel Reyes","Francisco  Maria Herrera","122014 107","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9568842203,"Etiel Reyes","Carlos Salazar  Jessica Cortez","122014 108","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9567870571,"Etiel Reyes","Cynthia Madrigal","122014 109","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564538513,"Etiel Reyes","Maria Vera","122014 110","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564647101,"Etiel Reyes","Vicente  Joaquina Tamez","122014 111","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563515810,"Etiel Reyes","Ana Vasquez  Rogelio Quintanilla","122014 112","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564470072,"Etiel Reyes","Rocio  Ulises Avila","122014 113","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563423112,"Etiel Reyes","Adrian  and Adriana Abila","122014 114","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569681774,"Etiel Reyes","Agustin Garcia Jr and Ninfa Garcia","122014 115","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563557210,"Etiel Reyes","Maria CASTILLO","122014 116","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9566500008,"Etiel Reyes","Pedro  Angelita Garcia","122014 117","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",7132137174,"Etiel Reyes","Maximiliano Garcia Jr","122014 118","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563730397,"Etiel Reyes","Pedro  and Florestela Ortiz","122014 119","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564729111,"Etiel Reyes","Ruth Perales","122014 120","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564478519,"Etiel Reyes","Sabas  and Rosana Calderon","122014 121","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563761567,"Etiel Reyes","Pedro  Irma Garcia","122014 122","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569692146,"Etiel Reyes","Roy Fuller","122014 123","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564649430,"Etiel Reyes","Leocadio Alegria","122014 124","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564642196,"Etiel Reyes","Pauline Toebes","122014 125","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9404526142,"Etiel Reyes","Sandra Clem","122014 126","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9568212662,"Etiel Reyes","Javier  and Victoria Guerrero","122014 127","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564645365,"Etiel Reyes","Maria  Ruben Valverde","122014 128","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563732848,"Etiel Reyes","John  and Maria Perfetto","122014 129","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563767719,"Etiel Reyes","Manuel  Noralisa Gonzalez","122014 130","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569691164,"Etiel Reyes","Bertoldo  and Felipa Garcia","122014 131","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564641000,"Etiel Reyes","Helen Lynn","122014 132","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564644018,"Etiel Reyes","Isabel DELEON JR","122014 133","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563730011,"Etiel Reyes","Josefina  Lorenzo Esqueda","122014 134","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563631082,"Etiel Reyes","Delia Gomez","122014 135","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565328581,"Etiel Reyes","Eduardo  and Erika Ramos","122014 136","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569680763,"Etiel Reyes","Gerardo Garcia","122014 137","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564642202,"Etiel Reyes","Josefa Trevino","122014 138","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563162010,"Etiel Reyes","Eva  Juan Reyes","122014 139","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9567849874,"Etiel Reyes","Marcos  Myda Moran","122014 140","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564678541,"Etiel Reyes","Idolina Pena  Benito Pena Jr","122014 141","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565659867,"Etiel Reyes","Dora  Sergio Baez","122014 142","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564643047,"Etiel Reyes","Roberto  Sylvia Martinez","122014 143","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565710655,"Etiel Reyes","Irma  Juan Trujillo","122014 144","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9566835807,"Etiel Reyes","Lewis Talley","122014 145","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565144951,"Etiel Reyes","Magdaleno  and San Juanita Valdez","122014 146","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564613899,"Etiel Reyes","Adelina Trevino","122014 147","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562078061,"Etiel Reyes","Gerardo  Pedro Pecina","122014 148","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564648571,"Etiel Reyes","Irene Olivarez","122014 149","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564724415,"Etiel Reyes","Martin Lopez  Emma Rios","122014 150","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562468237,"Etiel Reyes","Roxana Macias","122014 151","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564600103,"Etiel Reyes","Ernesto  and Angie Montemayor","122014 152","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564245953,"Etiel Reyes","Liliana  Jason Honeycutt","122014 153","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565655414,"Etiel Reyes","Oscar  Rosa Castillo","122014 154","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569754400,"Etiel Reyes","Adan  Laura Ibarra","122014 155","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563760278,"Etiel Reyes","Alexander Zamarripa and Esmeralda Magana","122014 156","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564643378,"Etiel Reyes","Chad  Stacy Stephan","122014 157","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564632934,"Etiel Reyes","Florencia Trevino and Juan M Patlan","122014 158","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9567562724,"Etiel Reyes","Reynaldo Villarreal","122014 159","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564637084,"Etiel Reyes","Yessenia  Edgar Zamora","122014 200","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569682913,"Etiel Reyes","Dominga Martinez","122014 201","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564726095,"Etiel Reyes","Hoa Le","122014 202","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9566849213,"Etiel Reyes","Jesus  Geronima Gutierrez","122014 203","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562058325,"Etiel Reyes","Juan Villarreal  Maria Pena De Villarreal","122014 204","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9563257725,"Etiel Reyes","Juanita  and Baudelio Morales","122014 205","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565654030,"Etiel Reyes","Avis Cook","122014 206","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562466402,"Etiel Reyes","Luis Ruiz","122014 207","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562256377,"Etiel Reyes","Maria Diaz","122014 208","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9569756545,"Etiel Reyes","Nicole Chaires  Felipe Aranda","122014 209","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9565787269,"Etiel Reyes","Sergio Gutierrez and Marcela Morales","122014 210","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9566052072,"Etiel Reyes","Kristina  and Juan Lopez","122014 211","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9564677082,"Etiel Reyes","Rosa Morales","122014 212","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",9562077944,"Etiel Reyes","Emilio  Oralia Salinas","122014 213","Jan Renewals  Auto",na
+"FFR Jan 2014 Etiel Reyes",5122946279,"Etiel Reyes","Maria Vasquez","122014 214","Jan Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2817288936,"John LeBlanc","Daryl  and Melissa Istre","122014 101","Jan Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322890068,"John LeBlanc","Anthony Davi","122014 102","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7132911639,"John LeBlanc","Lindsey Taylor III  Akima Taylor","122014 104","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322743426,"John LeBlanc","Nestor  Erika Ramos","122014 105","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2819973320,"John LeBlanc","Rasesh  Sejal Police","122014 106","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8326518339,"John LeBlanc","Sherri  and James Fuller","122014 109","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138751946,"John LeBlanc","Brian  Trish Doherty","122014 110","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8325410246,"John LeBlanc","David  Tiffany Tanous","122014 111","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814893192,"John LeBlanc","Erica  Brandon Brockhoeft","122014 112","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7133887839,"John LeBlanc","Samuel  Karina Lopez","122014 113","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134367929,"John LeBlanc","Theresa LeBlanc","122014 114","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138543010,"John LeBlanc","YiJun Liu and Ted Kalivoda","122014 115","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",3096784653,"John LeBlanc","David  and Martha Keil","122014 118","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138984805,"John LeBlanc","Loretta Fuqua","122014 120","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134745043,"John LeBlanc","Weldon  and Mary Warren","122014 121","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8325311129,"John LeBlanc","Aswin Widjaja  Shiendry Kurniawan","122014 122","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134601889,"John LeBlanc","John  Louise Routh","122014 123","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134447762,"John LeBlanc","Noel Ligon","122014 124","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2815914249,"John LeBlanc","Thomas Weekley","122014 125","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",5125295283,"John LeBlanc","Emily  and Robbin Murphy","122014 127","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814894715,"John LeBlanc","Joel  Magdalena Holmes","122014 128","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7132051478,"John LeBlanc","Mary Vackar","122014 129","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7137750453,"John LeBlanc","Ronnie  and Traci Donley","122014 130","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814318292,"John LeBlanc","Alice Black","122014 131","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2817552567,"John LeBlanc","Ricky Tran  Shirley Kung","122014 134","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",4326892542,"John LeBlanc","Sharon  and Jerry Dunnam","122014 135","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7137027570,"John LeBlanc","Todd  Robin Steinkamp","122014 136","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8328543820,"John LeBlanc","Amy Pogach  JOEL POGACH","122014 137","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134368652,"John LeBlanc","Kelli  Michael Dilling","122014 138","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2812263316,"John LeBlanc","Ramon  and Ana Jimenez","122014 139","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7146132300,"John LeBlanc","Sarah  Bryan Crosby","122014 140","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8327122669,"John LeBlanc","Leslie  and Philip Joy","122014 141","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7133207531,"John LeBlanc","Edgar  and Jennifer Hudson","122014 142","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2817999740,"John LeBlanc","Stephen  Claudia Gonzales","122014 143","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2818098994,"John LeBlanc","Marc  and Milete Klinkerman","122014 144","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",3144063289,"John LeBlanc","Sterling  Danyell Pennington","122014 145","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134363464,"John LeBlanc","Anaphine  Henry Socias","122014 146","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2813379391,"John LeBlanc","Cathy  Lavert Hamel","122014 147","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2818501864,"John LeBlanc","Dustin Chichester and Natana Peres","122014 148","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322287837,"John LeBlanc","Gumaro  Daisy Granados","122014 149","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",3614436808,"John LeBlanc","John Ducote Jr","122014 150","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8326474205,"John LeBlanc","Tamara  and Antonio Johnson","122014 152","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",4805704963,"John LeBlanc","Trung  Tuyenly Nguyen","122014 153","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",9715336288,"John LeBlanc","Christopher King","122014 154","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2812994333,"John LeBlanc","George Fachinger","122014 155","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2818819234,"John LeBlanc","Stephanie Lee","122014 156","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8324578664,"John LeBlanc","Lawrence  Julie Theriot","122014 157","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8323150344,"John LeBlanc","Michelle  Jeffrey Plymell","122014 158","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138542714,"John LeBlanc","Jason  and Rachel Jackson","122014 159","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134369809,"John LeBlanc","John  Janet Hampton","122014 200","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2817578060,"John LeBlanc","Shailete  John Abbott","122014 202","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7136287621,"John LeBlanc","Timothy Casey","122014 203","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7136569024,"John LeBlanc","Edward BAca  Minh Baca","122014 204","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2819972046,"John LeBlanc","Elias  and Sanjuana Barrasa","122014 205","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2816352334,"John LeBlanc","Kimberly Davis","122014 207","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",6012122269,"John LeBlanc","Marie Carpio","122014 208","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8326925532,"John LeBlanc","Michelle  Gary Schroeder","122014 209","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2812075903,"John LeBlanc","Chris  and Angela Wilson","122014 210","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138994905,"John LeBlanc","James  Linda Baumgartner","122014 211","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7133011300,"John LeBlanc","Tony  and Leslie Barcelona","122014 212","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8329783196,"John LeBlanc","Cristina Scott","122014 213","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322827771,"John LeBlanc","Knicole  Thomas Ogg","122014 215","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138623418,"John LeBlanc","Natalie  Jason Schuren","122014 216","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134809397,"John LeBlanc","Tan Pham","122014 217","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134362820,"John LeBlanc","Wendy  Michael Williams","122014 218","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7137285958,"John LeBlanc","Atkin  Katherena Hoffman","122014 219","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814377702,"John LeBlanc","Lucia  and Raymond Martinez","122014 220","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7135451269,"John LeBlanc","Rafaela Ruffino","122014 221","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322878173,"John LeBlanc","Tam Vu  Tammy Phan","122014 222","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814389003,"John LeBlanc","Aleyamma  George Samkutty","122014 223","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8324988066,"John LeBlanc","Clay  Shelley Naiser","122014 224","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7134139713,"John LeBlanc","Mavo  and Johnny Smith","122014 225","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322442828,"John LeBlanc","Raj  Vijay Dudwal","122014 226","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2812554502,"John LeBlanc","Randi Massey","122014 227","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2813002725,"John LeBlanc","Thomas  and Janelle Dickson","122014 228","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",7138993042,"John LeBlanc","Arlene  and Dennis Hernandez","122014 229","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814514818,"John LeBlanc","Elizabeth Wilder and Patrick Shanley","122014 230","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2817985352,"John LeBlanc","Jeannette  James Carrasco","122014 231","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2258026066,"John LeBlanc","Robert Stratton and Jianping Hao","122014 232","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8322744097,"John LeBlanc","Cassandra Schoessow","122014 233","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2815349696,"John LeBlanc","Jose  Juana Macias","122014 235","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8325692154,"John LeBlanc","Melissa Gukhool","122014 236","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",8323984743,"John LeBlanc","Diana  Robert Justice","122014 237","Feb Renewals  Auto",na
+"FFR Jan 2014 John LeBlanc",2814312808,"John LeBlanc","Brenda Edwards","122014 238","Feb Renewals  Auto",na
+"FFR Jan 2014 Dan Frickey",4099481163,"Dan Frickey","Margaret Tuma","122014 101","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8323852922,"Dan Frickey","Nicholas  Amanda Blanch","122014 102","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2819847955,"Dan Frickey","Cindy Babineaux","122014 103","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134082555,"Dan Frickey","Deborah Conley","122014 105","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817057708,"Dan Frickey","John  Susan Castaneda","122014 106","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",4095999998,"Dan Frickey","Laura Jones","122014 107","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814714222,"Dan Frickey","Lindsay Pfeiffer","122014 108","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7132494216,"Dan Frickey","Claudette  Tedd Olkowski","122014 109","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813344282,"Dan Frickey","Max Luttgeharm","122014 110","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",3305542303,"Dan Frickey","Whitney  Wilner Mercilus","122014 111","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817729442,"Dan Frickey","Francis Bates Hunter  Anthony Hunter","122014 113","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134099646,"Dan Frickey","Lee Ann Davidson","122014 114","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817970073,"Dan Frickey","Luke Bryant","122014 115","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814550515,"Dan Frickey","Diana  Julio Vega","122014 116","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8326066422,"Dan Frickey","Joe  Erika Pepas","122014 117","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",9012405696,"Dan Frickey","Patricia MATHIS","122014 119","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",6173083816,"Dan Frickey","Jason Glenn","122014 120","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812162138,"Dan Frickey","Jeff Coletta","122014 121","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812298170,"Dan Frickey","Andrew  and Deborah Kaufman","122014 122","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2819102369,"Dan Frickey","Richard Kohn","122014 123","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8083413239,"Dan Frickey","Stephanie Martin","122014 124","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815382600,"Dan Frickey","Dale Darnall Jr  Kara Darnall","122014 125","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813323923,"Dan Frickey","Sharon  and Merlin Fontenot","122014 126","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7132497702,"Dan Frickey","Art  Karen Oswald","122014 127","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134480301,"Dan Frickey","Rodney Dilworth","122014 129","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7164103012,"Dan Frickey","Shirley Squibb","122014 130","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815365626,"Dan Frickey","J  Ashley Croker","122014 132","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814887531,"Dan Frickey","Ethel  James Claywell","122014 133","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7139430354,"Dan Frickey","Juan  Carmen Rodriguez","122014 134","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey","2819960453 x7105","Dan Frickey","Linda Criner","122014 135","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",4093708923,"Dan Frickey","Lucinda Kelly","122014 136","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815350516,"Dan Frickey","Clarence  and Janice Caballero","122014 137","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814749129,"Dan Frickey","John  Wendy Largen","122014 138","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8323157121,"Dan Frickey","Sheri  Robert Sammons","122014 139","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134168191,"Dan Frickey","Christi  Robert Walker","122014 141","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",4096824074,"Dan Frickey","Jason  and Connie Hayley","122014 142","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812354227,"Dan Frickey","Elizabeth  Mark Prendergast","122014 143","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814618707,"Dan Frickey","James  Amy Holt","122014 144","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7136446724,"Dan Frickey","Maricela Carrera","122014 145","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813346479,"Dan Frickey","Adam Bevelhymer","122014 146","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814676588,"Dan Frickey","Marlies Van Ewijck  Juan Hernandez","122014 147","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815579219,"Dan Frickey","Matthew  Laura Lee","122014 148","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2819241832,"Dan Frickey","Charles Reeder  Trang Nguyen","122014 149","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2819915488,"Dan Frickey","Kristin Hickner  Fred Damain","122014 151","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7133157270,"Dan Frickey","Laurie  Derek Wood","122014 152","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",5122699526,"Dan Frickey","Scott Stolle","122014 153","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813897907,"Dan Frickey","Shawn Borselino","122014 154","Jan Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815547750,"Dan Frickey","Elizabeth  Andrew Chu","122014 155","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8326433927,"Dan Frickey","Gary Rackley","122014 156","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813336167,"Dan Frickey","Kenneth CONBOY  Joni Snow","122014 157","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7135423240,"Dan Frickey","Pamela Morgan","122014 158","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815350817,"Dan Frickey","Steve  and Cynthia Austin","122014 159","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7137158851,"Dan Frickey","Bob Greer","122014 200","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8322287141,"Dan Frickey","David Coffelt","122014 201","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812172002,"Dan Frickey","Sara  Eric Konesheck","122014 202","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7139276747,"Dan Frickey","Vera  Mayon Todd","122014 203","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",4094577495,"Dan Frickey","Aaron  Amber Elfstrom","122014 204","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814838623,"Dan Frickey","Deborah Hutchings","122014 205","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817858757,"Dan Frickey","Kimberly  and Steve Anderson","122014 206","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8328581997,"Dan Frickey","Michael Nguyen and Hongyen Dang","122014 207","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8324253182,"Dan Frickey","Randolph T. Turner","122014 208","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7133030552,"Dan Frickey","Robert Barr","122014 209","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7137338691,"Dan Frickey","Woodrow  Shirley Jacquot","122014 210","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134758849,"Dan Frickey","Lourdes  Arnold Salazar","122014 212","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815367091,"Dan Frickey","George  Laura Holmes","122014 213","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7135015264,"Dan Frickey","Jennifer  and Darrin Hall","122014 214","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8323926004,"Dan Frickey","Ross Herrod","122014 215","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815353443,"Dan Frickey","Faith  and Robert Norris","122014 216","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814813269,"Dan Frickey","H  William Helms","122014 217","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2816872370,"Dan Frickey","Melissa  and Ryan Dennard","122014 218","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7134549632,"Dan Frickey","Stephanie  Chad Bordeau","122014 219","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2818311276,"Dan Frickey","Barry Adams  Adams Barry","122014 220","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814880400,"Dan Frickey","Herschel Knippa Jr  Sue Knippa","122014 221","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8325457457,"Dan Frickey","Maria Sosa","122014 222","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813164251,"Dan Frickey","Virginia Shaffer","122014 223","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812917179,"Dan Frickey","Kelly  MaiPhuong Templin","122014 224","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817441211,"Dan Frickey","Meghan  Perry Brooks","122014 225","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813340222,"Dan Frickey","Lilya  Jack Isaacson","122014 226","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813342682,"Dan Frickey","Paul Smith  Brenda Smtih","122014 227","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814556562,"Dan Frickey","Stephen  Trina King","122014 228","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8327236907,"Dan Frickey","Stewart  Mary Cooper","122014 229","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8324928883,"Dan Frickey","Amy  Jon Moore","122014 230","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8323302328,"Dan Frickey","Colby Ayles","122014 231","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2816398993,"Dan Frickey","Dearl Dunbar","122014 232","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817281787,"Dan Frickey","Ed  Glinda Van Malden","122014 233","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2819107439,"Dan Frickey","Jeremy  and Deanna Wilke","122014 234","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8328643413,"Dan Frickey","Cristina Vega","122014 235","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812222287,"Dan Frickey","Gerard Szymczak","122014 237","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2815350353,"Dan Frickey","William Kesseler","122014 238","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7133856628,"Dan Frickey","Diane Bucek","122014 239","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2816277222,"Dan Frickey","Ronda  Irvin Randle","122014 240","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",8328242633,"Dan Frickey","Jennifer Lively","122014 241","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey","4097634661 x4549","Dan Frickey","Kristina  Benjamin Hayes","122014 242","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",7136435504,"Dan Frickey","Fernando Martinez","122014 243","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2812299994,"Dan Frickey","Michaell  Diane Tewell","122014 245","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",4092563210,"Dan Frickey","Janet  Michael Wrenn","122014 246","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2818447024,"Dan Frickey","Ruben  Tana Elaine Pena","122014 247","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2817776527,"Dan Frickey","Carla Hernandez","122014 248","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2814141054,"Dan Frickey","Tad Nelson","122014 250","Feb Renewals  Home",na
+"FFR Jan 2014 Dan Frickey",2813343778,"Dan Frickey","Sylvia  Oleomar Montalvo","122014 251","Feb Renewals  Home",na
+"FFR Jan 2014 Tana Maddox",9792361966,"Tana Maddox","Adrian  Janice Arizmendi","122014 101","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",4092393436,"Tana Maddox","Agustin and Rosa Arroyo","122014 102","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792300632,"Tana Maddox","Aleene Brinkmeyer","122014 103","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792929258,"Tana Maddox","Alejandro  Veronica Amador","122014 104","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795493229,"Tana Maddox","Amie  and Brian Archibeque","122014 105","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",8325159279,"Tana Maddox","Andrea  David Adamson","122014 106","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797092157,"Tana Maddox","Annette Bradford","122014 107","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792368637,"Tana Maddox","Aurelio  and Belia Baeza","122014 108","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9793737955,"Tana Maddox","Becky  Gary Ateniese","122014 109","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792656426,"Tana Maddox","Ben  and Lillie Alcala","122014 110","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792010222,"Tana Maddox","Benny  Dorothy Backman","122014 111","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792361808,"Tana Maddox","Betty Boullion","122014 112","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792331945,"Tana Maddox","Billy Burdine","122014 113","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792974140,"Tana Maddox","Brazosport Urology","122014 114","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox","9792337861 x472","Tana Maddox","Bryan  Christina Browning","122014 115","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792391710,"Tana Maddox","Carlos  Sanjuanita Aguilar","122014 116","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796651197,"Tana Maddox","Carlos ARELLANO","122014 117","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794176270,"Tana Maddox","Carnelia BERTRAM","122014 118","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794806174,"Tana Maddox","Chad Babcock","122014 119","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2812284085,"Tana Maddox","Charles  Cynthia Bird","122014 120","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796658467,"Tana Maddox","Cheryl Baker","122014 121","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792350949,"Tana Maddox","Christopher  Connie Browning","122014 122","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798489571,"Tana Maddox","Claudia ARICEAGA","122014 123","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794175348,"Tana Maddox","Coty Bryant","122014 124","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792360544,"Tana Maddox","Curtis  Willie Brown","122014 125","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792389793,"Tana Maddox","Curtis Banks","122014 126","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797987127,"Tana Maddox","Daniel  Pearl Bundick","122014 127","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792029508,"Tana Maddox","Darrell  and Martha Ashworth","122014 128","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792999995,"Tana Maddox","Darrell  Rosemarie Adell","122014 129","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794175563,"Tana Maddox","Darrin Anderson","122014 130","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796658953,"Tana Maddox","Darwin BRINKMEYER","122014 131","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792350032,"Tana Maddox","Daryl  Tina Bannick","122014 132","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795837372,"Tana Maddox","David  and Lisa Barnes","122014 133","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794827248,"Tana Maddox","David  Barbara Berry","122014 134","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792858732,"Tana Maddox","David Aguilar","122014 135","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795488984,"Tana Maddox","David Appleman","122014 136","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795299380,"Tana Maddox","David Bitter","122014 137","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796659967,"Tana Maddox","Debra  Stephen. Bridges","122014 138","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794807058,"Tana Maddox","Dennis  Constancia Arana","122014 139","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792925476,"Tana Maddox","Dennis Arana","122014 140","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792920289,"Tana Maddox","Dirk  Gabriele Aheimer","122014 141","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792972377,"Tana Maddox","Don  Janette Brightwell","122014 142","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794804975,"Tana Maddox","Donna  Elmer Burch","122014 143","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792978460,"Tana Maddox","Donna Allen and Bennie Allen Iv","122014 144","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792334247,"Tana Maddox","Donnie Bounds","122014 145","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792991920,"Tana Maddox","Doris Bilyeu","122014 146","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792655111,"Tana Maddox","Duane BOSTON","122014 147","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798241975,"Tana Maddox","Eddie Baker","122014 148","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9563303886,"Tana Maddox","Eleodoro Alanis Lopez","122014 149","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",8325155546,"Tana Maddox","Elida  Richard Araiza","122014 150","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2817776471,"Tana Maddox","Ercella  and Andre Allen","122014 151","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792365795,"Tana Maddox","Eric  Gloria Boozy","122014 152","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794821000,"Tana Maddox","Ernest and Bonnie Beadle","122014 153","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795491279,"Tana Maddox","Felix Armenta","122014 154","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794820330,"Tana Maddox","Francisco  Rosalinda Aguirre","122014 155","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792330239,"Tana Maddox","Francisco Aureoles  Oralia Heredia","122014 156","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792975286,"Tana Maddox","Frank Britt","122014 157","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792482917,"Tana Maddox","Freddie  Deborah Brenk","122014 158","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792357960,"Tana Maddox","Gary  Carol Briggs","122014 159","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797727959,"Tana Maddox","George  Anne Bettinger","122014 200","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9793452080,"Tana Maddox","George  Linda Butler","122014 201","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792855453,"Tana Maddox","Greg Boaz","122014 202","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792999898,"Tana Maddox","Gregg Bautsch  Holly Todd","122014 203","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792010224,"Tana Maddox","Gregory Burton","122014 204","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794823853,"Tana Maddox","Guadalupe  Maria Bustos","122014 205","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792333142,"Tana Maddox","Guadalupe Aluiso","122014 206","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792669595,"Tana Maddox","Gwen Agnew","122014 207","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792157525,"Tana Maddox","Hoyt Broadway","122014 208","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796655400,"Tana Maddox","J Concepcion Juarez","122014 209","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox","9792338248 x225","Tana Maddox","Jaime and Wife Arroyo","122014 210","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794176270,"Tana Maddox","James BERTRAM  Phyllis Bertram","122014 211","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792382544,"Tana Maddox","Janice Browne","122014 212","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2698234204,"Tana Maddox","Janis  Ann Andersons","122014 213","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797776386,"Tana Maddox","Jason BRITTAIN  Lauren Brittain","122014 214","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792653302,"Tana Maddox","Jeanenne Baxter","122014 215","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",4093707729,"Tana Maddox","Jeff Baumgardner","122014 216","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652024,"Tana Maddox","JEROME  ANTOINETTE BROWN","122014 217","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792393510,"Tana Maddox","Jesus  Bertha Aguilar","122014 218","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798240245,"Tana Maddox","Jimmie  Marilyn Bowles","122014 219","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792335735,"Tana Maddox","Jimmy  Marietta Birdwell","122014 220","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2146369686,"Tana Maddox","Joe Buckner","122014 221","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",7138755183,"Tana Maddox","John  Christine Burnette","122014 222","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792333269,"Tana Maddox","John  Jeanetta Alston","122014 223","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792926715,"Tana Maddox","Jonathan Bauer","122014 224","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",8323615439,"Tana Maddox","Jose  Ericka Ariceaga","122014 225","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798494864,"Tana Maddox","Joseph  Laurie Ambrose","122014 226","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792368342,"Tana Maddox","Juan  Maribel Azucena","122014 227","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792656775,"Tana Maddox","Juanita Brogan","122014 228","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798498122,"Tana Maddox","Judy  William Addison","122014 229","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797097778,"Tana Maddox","Justin Berkefelt  Anna Leal","122014 230","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797987723,"Tana Maddox","Kenneth Angell","122014 231","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794813320,"Tana Maddox","Kenneth Batts","122014 232","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792978940,"Tana Maddox","Kevin  Mary Barnes","122014 233","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792975530,"Tana Maddox","Larry  Sharon Breaux","122014 234","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794177629,"Tana Maddox","Larry  Terri Bones","122014 235","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798244377,"Tana Maddox","Latoya Allen","122014 236","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792367172,"Tana Maddox","Lee  Tressie Bryant","122014 237","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792853593,"Tana Maddox","Leslie  Ernestina Braun","122014 238","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794809424,"Tana Maddox","Leslie Anguiano","122014 239","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797092726,"Tana Maddox","Lisa Arauz","122014 240","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797987328,"Tana Maddox","Lloyd Barnes","122014 241","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792854043,"Tana Maddox","Louie  Shirley Albarado","122014 242","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796656021,"Tana Maddox","Macario  Jerri Alaniz","122014 243","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792391951,"Tana Maddox","Manuel  Rita Arroyo","122014 244","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792330501,"Tana Maddox","Margarita  Noelio Alanis","122014 245","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794181063,"Tana Maddox","Maria Bermudez","122014 246","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792361202,"Tana Maddox","Marilyn Anderson","122014 247","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792655889,"Tana Maddox","Mary Allman","122014 248","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792010960,"Tana Maddox","Matias  Maria Aguilar","122014 249","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2812368450,"Tana Maddox","Melinda Boles","122014 250","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792331887,"Tana Maddox","Michael Adams","122014 251","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792489789,"Tana Maddox","Minerva  Donald Burton","122014 252","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9796655400,"Tana Maddox","Mireya Baeza","122014 253","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792654945,"Tana Maddox","Nelda  Nelda R Bruce Bruce","122014 254","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795489231,"Tana Maddox","Orlando  Maria Arcia","122014 255","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794173299,"Tana Maddox","Patricia Bell","122014 256","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792486981,"Tana Maddox","Patsy Bousman","122014 257","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",7138059478,"Tana Maddox","Paul Aguilar","122014 258","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797989659,"Tana Maddox","Paula Barton and Doug Copeland","122014 259","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",4324131759,"Tana Maddox","Pauletta Beaver","122014 300","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792350397,"Tana Maddox","Peggy Aldous","122014 301","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797982962,"Tana Maddox","Richard  and Lucy Arcemant","122014 302","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9793889210,"Tana Maddox","Richard  Merry Brown","122014 303","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792385081,"Tana Maddox","Richard  Sheryl Armstrong","122014 304","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798643334,"Tana Maddox","Richard Arcemant","122014 305","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794807052,"Tana Maddox","Robert  Sandra Alston","122014 306","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792309298,"Tana Maddox","Robert Aden Jr  Patricia Aden","122014 307","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797980334,"Tana Maddox","Robert Alford","122014 308","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9794179858,"Tana Maddox","Robert Alston Jr","122014 309","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",4099985119,"Tana Maddox","Robert ANDERSON  Chelsea Anderson","122014 310","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792022837,"Tana Maddox","Roberto Bautista","122014 311","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792359165,"Tana Maddox","Rodrigo Bustillos","122014 312","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9798494739,"Tana Maddox","Roger  and Linda Blanchard","122014 313","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9793880919,"Tana Maddox","Ronald  Jullie Alexander","122014 314","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792973674,"Tana Maddox","Ronald  Ronda Barksdale","122014 315","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792359828,"Tana Maddox","Ronald Brociner","122014 316","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792979625,"Tana Maddox","Rosa ALEXANDER","122014 317","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792854073,"Tana Maddox","Rosalinda Aguilar","122014 318","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9797980334,"Tana Maddox","Rosario Alford","122014 319","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9795495755,"Tana Maddox","Tammy Anderson  David Anderson Sr","122014 320","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",5095315958,"Tana Maddox","Theresa Byrd","122014 321","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792016025,"Tana Maddox","Thomas  Blanca Buras","122014 322","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792977333,"Tana Maddox","Thomas Atkins","122014 323","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792998612,"Tana Maddox","Thomas Azlin","122014 324","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792857426,"Tana Maddox","Timothy  Carol Azlin","122014 325","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652152,"Tana Maddox","Tommy  Lisa Burch","122014 326","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792929353,"Tana Maddox","Tracy BURTON","122014 327","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792014111,"Tana Maddox","Troy Beacroft","122014 328","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652228,"Tana Maddox","Truman  Ouida Alexander","122014 329","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",2815813167,"Tana Maddox","Wayne Alexander","122014 330","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792332423,"Tana Maddox","Wayne Atkins","122014 331","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9793456532,"Tana Maddox","William  Rose Ainsworth","122014 332","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792993426,"Tana Maddox","William BANKS","122014 333","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652273,"Tana Maddox","William Biggs  William O Biggs Sr  Barbara","122014 334","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792991250,"Tana Maddox","William Bryant","122014 335","Jan Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652030,"Tana Maddox","Addie Carr","122014 336","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798240962,"Tana Maddox","Adelaide CRECY","122014 337","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798496284,"Tana Maddox","Alice Curry","122014 338","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792364095,"Tana Maddox","Alva Duran","122014 339","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793738028,"Tana Maddox","Amanda CHAPA","122014 340","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792368198,"Tana Maddox","Barry Dosser","122014 341","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792994528,"Tana Maddox","Betty  Betty Danford","122014 342","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793731320,"Tana Maddox","Bradley Childers","122014 343","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",8125772270,"Tana Maddox","Brenda Clark","122014 344","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792308308,"Tana Maddox","Carmen Canales","122014 345","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796655273,"Tana Maddox","CHHOEUN CHURN and Chhivleng Churn","122014 346","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792382223,"Tana Maddox","Clarence  Saprine Dugan","122014 347","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792362493,"Tana Maddox","Curtis Clark","122014 348","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792366371,"Tana Maddox","Cynthia  and Roderick Cornette","122014 349","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792330094,"Tana Maddox","David  Victoria Denbow","122014 350","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",3617728906,"Tana Maddox","David Chase","122014 351","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794826333,"Tana Maddox","Deena  Tracy Clanton","122014 352","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792365341,"Tana Maddox","Dennis Crouch","122014 353","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",2814869278,"Tana Maddox","Derrell Curry","122014 354","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792363748,"Tana Maddox","Donald Dorsey","122014 355","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792364152,"Tana Maddox","Dora Cook","122014 356","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",4092658722,"Tana Maddox","Elizabeth and Ruben Cuellar","122014 357","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793885008,"Tana Maddox","Erasmo Cantu","122014 358","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792977709,"Tana Maddox","Floyd Carroll","122014 359","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",7136655463,"Tana Maddox","Forrest Clark III  Patricia Clark","122014 400","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792013934,"Tana Maddox","Francisco  and Norma Delhierro","122014 401","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792924582,"Tana Maddox","Francisco  Maria Deleon","122014 402","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",2816825996,"Tana Maddox","Gary Deleon  Julia Cortez","122014 403","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792973204,"Tana Maddox","Gerald  Nola Copus","122014 404","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792391368,"Tana Maddox","Geraldine Collins","122014 405","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792990509,"Tana Maddox","Gilbert  Guadalupe Cuellar","122014 406","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798643190,"Tana Maddox","Greg  Georgia Cherry","122014 407","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792338155,"Tana Maddox","Gustavo Delosreyes","122014 408","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794158213,"Tana Maddox","Harold  Nola Dent","122014 409","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792334244,"Tana Maddox","Hazel Chapman","122014 410","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794189587,"Tana Maddox","Heather DunnGoolsby","122014 411","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792859753,"Tana Maddox","Ismael  Silvia Delgado","122014 412","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792850031,"Tana Maddox","James  and Joy Collins","122014 413","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792483607,"Tana Maddox","James  and Stacy Davis","122014 414","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792368594,"Tana Maddox","James Dugat","122014 415","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793180874,"Tana Maddox","Jamie  Brian Donnelly","122014 416","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792978617,"Tana Maddox","Janet Cunningham","122014 417","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792362254,"Tana Maddox","Jeanne Cope","122014 418","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",6087748038,"Tana Maddox","Jeffrey DANIELS","122014 419","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798649341,"Tana Maddox","Jennifer  and James Collins","122014 420","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792855140,"Tana Maddox","Jimmy Clifton Jr  Denise Clifton","122014 421","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796652181,"Tana Maddox","John Centeno","122014 422","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797943596,"Tana Maddox","Johnnie  Robert Dawson","122014 423","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794804146,"Tana Maddox","Johnny  Lisa Chavez","122014 424","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793730465,"Tana Maddox","Jose  and Maria Diaz","122014 425","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796651795,"Tana Maddox","Jose  Dulce Chacon","122014 426","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792367348,"Tana Maddox","Jose  Prudencia Carrasco","122014 427","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792484553,"Tana Maddox","Jose Delafuente","122014 428","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792334337,"Tana Maddox","Joseph  Betty Cromer","122014 429","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792481291,"Tana Maddox","Josh COTTA","122014 430","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796653807,"Tana Maddox","Juanita  Walter Crane","122014 431","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",7138993149,"Tana Maddox","Kandace DELLA FEMINA","122014 432","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",4322354168,"Tana Maddox","Kelley  Aaron Delcambre","122014 433","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792363464,"Tana Maddox","Ketan  Shibani Desai","122014 434","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794812189,"Tana Maddox","Kimberly Cox  Michelle Boudreaux","122014 435","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798719321,"Tana Maddox","Leonard  Patricia Driskell","122014 436","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798719193,"Tana Maddox","Linda Cavanaugh","122014 437","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797090687,"Tana Maddox","Lucio  Reyna Cruz","122014 438","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797097589,"Tana Maddox","Lucio Cruz","122014 439","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792484354,"Tana Maddox","Luis  Olga Cantu","122014 440","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792365864,"Tana Maddox","Luis Coronado","122014 441","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792366799,"Tana Maddox","Luis Dozal","122014 442","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794154141,"Tana Maddox","Marcos  Patricia Castillo","122014 443","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797099498,"Tana Maddox","Margarita CABRERA and Cesar Espinoza","122014 444","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794189459,"Tana Maddox","Maria Cortez","122014 445","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792382121,"Tana Maddox","Mark  Virginia Cowart","122014 446","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792654895,"Tana Maddox","Martha COLLINS","122014 447","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796471522,"Tana Maddox","Marvin  Faviola Calderon","122014 448","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792336571,"Tana Maddox","Mary Closs","122014 449","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793085610,"Tana Maddox","Mauricio Cardenas","122014 450","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792363158,"Tana Maddox","Michael  Betty Doucet","122014 451","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794156131,"Tana Maddox","Michael  Gayle Curtis","122014 452","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798241413,"Tana Maddox","Michael  Lawrence Denbow","122014 453","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792669289,"Tana Maddox","Michail  Judy Dolgovskij","122014 454","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",5123121186,"Tana Maddox","Monalisa Diggs","122014 455","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798245169,"Tana Maddox","Monica Cruz","122014 456","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792393429,"Tana Maddox","Napoleon  Martha Castro","122014 457","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9795480665,"Tana Maddox","Neil  Karen Couey","122014 458","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797090288,"Tana Maddox","Norma Cantu  Jose Hernandez","122014 459","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797307285,"Tana Maddox","Norma Chapa","122014 500","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792924049,"Tana Maddox","Patricia  and Newton Cundieff","122014 501","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792337526,"Tana Maddox","Patricia  Robert Dohle","122014 502","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792653299,"Tana Maddox","Pedro  and Maria Carrillo","122014 503","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792383594,"Tana Maddox","Ping Cai  Liping Zhang","122014 504","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox","9792658770 x128","Tana Maddox","Rafael  Irma Carrasco","122014 505","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793195150,"Tana Maddox","Randall  Beverly Carroll","122014 506","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792350635,"Tana Maddox","Randy  Josie Drake","122014 507","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9796651815,"Tana Maddox","Raymond  Carmen Calvillo","122014 508","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792360424,"Tana Maddox","Rene  Sandra Damian","122014 509","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794171204,"Tana Maddox","Richard Ducharme","122014 510","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797981890,"Tana Maddox","Robert Cardenas Jr","122014 511","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797985478,"Tana Maddox","Robert Cook Jr","122014 512","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",8324493338,"Tana Maddox","Robert Couch","122014 513","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792359796,"Tana Maddox","Robert Dent","122014 514","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792332436,"Tana Maddox","Ronald  Mariza Damian","122014 515","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",8322269219,"Tana Maddox","Rosendo  Virginia Chavez","122014 516","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798241924,"Tana Maddox","Rustin  and Tara Dent","122014 517","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793737754,"Tana Maddox","Salomon Corona","122014 518","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792978723,"Tana Maddox","Sandra  Steven Costello","122014 519","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792331534,"Tana Maddox","Scott  Dawn Dobbs","122014 520","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9799971608,"Tana Maddox","Sergio  Evalinda Cantu","122014 521","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792990814,"Tana Maddox","Stephanie  Jesse Carroll","122014 522","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792309294,"Tana Maddox","Steven  Heather David","122014 523","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9793454257,"Tana Maddox","Sylvia Dickens","122014 524","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792365366,"Tana Maddox","Sylvia Dubose","122014 525","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792013446,"Tana Maddox","Teresa  Roger Cornelison","122014 526","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792990206,"Tana Maddox","Teresa Clifton","122014 527","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792393320,"Tana Maddox","Terlesa  and DNeko Conyers","122014 528","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792652587,"Tana Maddox","Terry  Mary Coffman","122014 529","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792976571,"Tana Maddox","Thomas  Marilou Duchaney","122014 530","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",2812864661,"Tana Maddox","Timothy  Cara Dickenson","122014 531","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792366046,"Tana Maddox","Tommy  Dorothy Creekmore","122014 532","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9798249899,"Tana Maddox","Trevor  and Anne Darthard","122014 533","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792336826,"Tana Maddox","Valerie Clark","122014 534","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9792998718,"Tana Maddox","Veronica Castro","122014 535","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9362982971,"Tana Maddox","Vivian Dooley","122014 536","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",2814823364,"Tana Maddox","Wendy CEPAK","122014 537","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9797423513,"Tana Maddox","William Davis","122014 538","Feb Renewals",na
+"FFR Jan 2014 Tana Maddox",9794800320,"Tana Maddox","William DAVIS  Billye Davis","122014 539","Feb Renewals",na

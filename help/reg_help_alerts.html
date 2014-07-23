@@ -1,0 +1,127 @@
+<html>
+<head>
+<style type="text/css">
+body{
+font-family: Arial;
+background: #fff;
+color:#455f76;
+
+}
+
+#wrapper h1{
+ font:normal 25pt Arial;
+ color:#c00;
+ font-family: Arial;
+ 
+}
+
+#wrapper p{
+ font:normal 14pt Arial;
+ color:#455f76;
+ text-shadow: 0 1px 0 #ccc,
+
+}
+
+.submit_info {
+	width: 250px;
+	padding: 9px 15px;
+	background: #617798;
+	border: 0;
+	font-size: 14px;
+	color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	cursor: pointer;
+	}
+.error {  
+    color: red; }
+
+</style>
+
+<script>
+function fillform($i){
+if($i == 'No'){
+
+$(".helptext").fadeOut();
+$(".helpform").delay(500).fadeIn();
+
+}
+
+if($i == 'Back'){
+
+$(".helpform").fadeOut();
+$(".helptext").delay(500).fadeIn();
+}
+
+if($i == 'Yes'){
+
+$(".helpform").fadeOut();
+$(".helptext").fadeOut();
+$(".perfect").delay(500).fadeIn();
+
+setTimeout("parent.eval('$.prettyPhoto.close()');",2000);
+}
+}
+</script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+<script src="../plugins/jquery.maskedinput-1.3.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+<div class="helptext">
+<center><h1>Farmers F.A.S.T. Sign Up Form</h1></center></a>
+<hr></hr>
+<center><p>Welcome to the CSG FAST Alerts Registration Process!</p></center>
+<p>Our goal is to make this process easy and effective. 
+We look forward to serving you and your clients with the best customer experience possible. 
+The sign up takes a few minutes to complete, after completion we will be in contact with you within 2 business days.</p>
+<center><p>For help, hover over the "?" on any field.</p></center>
+<hr></hr>
+
+<center><p>Are you ready to continue?</p></center><center> <input type="radio" name="require" value="Yes" onclick="fillform('Yes')"/>Yes <input type="radio" name="require" value="No" onclick="fillform('No')"/>No</center>
+</div>
+<div class="helpform" style="display: none;">
+
+<input type="button" name="require" value="Go Back" onclick="fillform('Back')"/>
+<center><p>Please input your information,<br>we will contact you to discuss options.</p></center>
+<form method="POST" action="../login.php" name="reg_help" target="_top" id="reg_help">
+<table>
+<tr><td>Phone #:</td><td><input style="width: 170px;" name="phonenum" class="mask-phone" type="text" /></td></tr>
+<tr><td>Email:</td><td><input style="width: 170px;" name="email" type="text" id="email"/></td></tr>
+<tr><td>First Name:</td><td><input style="width: 170px;" name="firstname" type="text" required/></td></tr>
+<tr><td>Last Name:</td><td><input style="width: 170px;" name="lastname" type="text" required/></td></tr>
+<tr><td>Reason for inability to register:</td><td><textarea name="reason" type="text" style="width: 170px; height: 50px;" required email ></textarea></td></tr>
+</table><br>
+<center><input type="submit" class="submit_info" value="Send Info!" name="doReghelp"/></center>
+</form>
+</div>
+<div class="perfect" style="display: none; position:absolute; top: 260px; left: 100px;">
+<center><h1>Perfect, Let's Get Started!</h1></center>
+</div>
+</div>
+<script>
+$("#reg_help").validate({
+  rules: {
+    email: {
+      required: true,
+      email: true
+    }
+
+  }
+});
+</script>
+  <script>
+  $(document).ready(function(){
+  
+   $.mask.definitions['h'] = "[A-Za-z0-9]";
+   $(".mask-date").mask("99/99/9999");
+   $(".mask-phone").mask("(999) 999-9999");
+   $(".mask-zip").mask("99999");
+   $(".mask-un").mask("hh-hh-hh");
+   
+  });
+  </script>
+</body>
+</html>

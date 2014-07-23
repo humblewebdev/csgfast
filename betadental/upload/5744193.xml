@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<xml>
+<Member>
+    <Contact>
+<MemID>R00001198200</MemID>
+        <FirstName>JOHN</FirstName>
+        <MidInit>S</MidInit>
+        <LastName>DOE</LastName>
+        <BirthDate>12011970</BirthDate>
+        <Gender>F</Gender>
+        <Address>100 TEST ST</Address>
+        <Address2></Address2>
+        <City>DENVER</City>
+        <State>CO</State>
+        <Zip>80203</Zip>
+        <HomePhone>3035555555</HomePhone>
+        <Email>EMAIL@BETADENTAL.COM</Email>
+    </Contact>
+    <Plan>
+        <MemID>R00001198200</MemID>
+<LastFour>1234</LastFour>
+<CCExpiration>122014</CCExpiration>
+        <Deps>03</Deps>
+        <DepRelation>0</DepRelation>
+        <EffectiveDate>05212013</EffectiveDate>
+        <DentalOffice>100</DentalOffice>
+        <EnrollPlansID>plan32</EnrollPlansID>
+        <PlanFee>895</PlanFee>
+        <ReferedBy>OTHER</ReferedBy>
+        <Other>DENTIST OFFICE</Other>
+        <Comments></Comments>
+    </Plan>
+</Member>
+<Member>
+    <Contact>
+<MemID>R00001198200</MemID>
+        <FirstName>JOHN</FirstName>
+        <MidInit>S</MidInit>
+        <LastName>DOE</LastName>
+        <BirthDate>12011970</BirthDate>
+        <Gender>F</Gender>
+        <Address>100 TEST ST</Address>
+        <Address2></Address2>
+        <City>DENVER</City>
+        <State>CO</State>
+        <Zip>80203</Zip>
+        <HomePhone>3035555555</HomePhone>
+        <Email>EMAIL@BETADENTAL.COM</Email>
+    </Contact>
+    <Plan>
+        <MemID>R00001198200</MemID>
+<LastFour>1234</LastFour>
+<CCExpiration>122014</CCExpiration>
+        <Deps>03</Deps>
+        <DepRelation>0</DepRelation>
+        <EffectiveDate>05212013</EffectiveDate>
+        <DentalOffice>100</DentalOffice>
+        <EnrollPlansID>plan32</EnrollPlansID>
+        <PlanFee>895</PlanFee>
+        <ReferedBy>OTHER</ReferedBy>
+        <Other>DENTIST OFFICE</Other>
+        <Comments></Comments>
+    </Plan>
+</Member>
+<Member>
+    <Contact>
+<MemID>R00001198200</MemID>
+        <FirstName>JOHN</FirstName>
+        <MidInit>S</MidInit>
+        <LastName>DOE</LastName>
+        <BirthDate>12011970</BirthDate>
+        <Gender>F</Gender>
+        <Address>100 TEST ST</Address>
+        <Address2></Address2>
+        <City>DENVER</City>
+        <State>CO</State>
+        <Zip>80203</Zip>
+        <HomePhone>3035555555</HomePhone>
+        <Email>EMAIL@BETADENTAL.COM</Email>
+    </Contact>
+    <Plan>
+        <MemID>R00001198200</MemID>
+<LastFour>1234</LastFour>
+<CCExpiration>122014</CCExpiration>
+        <Deps>03</Deps>
+        <DepRelation>0</DepRelation>
+        <EffectiveDate>05212013</EffectiveDate>
+        <DentalOffice>100</DentalOffice>
+        <EnrollPlansID>plan32</EnrollPlansID>
+        <PlanFee>895</PlanFee>
+        <ReferedBy>OTHER</ReferedBy>
+        <Other>DENTIST OFFICE</Other>
+        <Comments></Comments>
+    </Plan>
+</Member>
+</xml>
